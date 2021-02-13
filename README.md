@@ -1,1 +1,1 @@
-# BabaDutchieTools
+# BabaDutchieTools for Java & Python
